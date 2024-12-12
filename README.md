@@ -1,5 +1,3 @@
-Here’s a structured `README.md` file for your RentoRama GitHub repository. It includes sections, descriptions, and placeholders for images to make it visually appealing and informative.
-
 ---
 
 ```markdown
@@ -93,11 +91,3 @@ For inquiries, contact [Prakash Kumar](mailto:your-email@example.com) or connect
 **Enjoy using RentoRama!** 🚗✨
 ```
 
----
-
-### **Instructions for Customization**
-1. Replace placeholder images (e.g., `https://via.placeholder.com/...`) with actual screenshots or a project banner.
-2. Update any placeholder links like the `mailto:` or `LinkedIn` link with your actual details.
-3. Include the `.env` variables required for the backend in a `README` subsection or a `.env.example` file.
-
-This `README.md` will make your repository look professional and user-friendly!
