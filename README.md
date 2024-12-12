@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # RentoRama 🚗
 
 **RentoRama** is a sleek and modern car rental application that simplifies vehicle rentals. Users can effortlessly search, filter, and book cars while enjoying a user-friendly interface. The app provides detailed car specifications, a seamless booking experience, and a personalized dashboard.
@@ -116,12 +114,3 @@ For any inquiries or feedback, please reach out:
 ```
 
 ---
-
-### **What’s Improved?**
-1. Added clarity to section headers (e.g., "Powerful Search and Filter").
-2. Made instructions concise yet descriptive, ensuring better readability.
-3. Highlighted environment variables setup with examples.
-4. Added structure to contributing steps.
-5. Enhanced screenshots section with relevant labels for each screenshot.
-
-Feel free to update placeholder links, screenshots, and contact information as needed!
