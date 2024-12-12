@@ -1,10 +1,3 @@
----
-# RentoRama 🚗
-
-**RentoRama** is a sleek and modern car rental application that simplifies vehicle rentals. Users can effortlessly search, filter, and book cars while enjoying a user-friendly interface. The app provides detailed car specifications, a seamless booking experience, and a personalized dashboard.
-
----
-
 ## 🌟 Features
 
 - **Powerful Search and Filter**: Find the perfect car by location, availability, price range, fuel type, and more.
