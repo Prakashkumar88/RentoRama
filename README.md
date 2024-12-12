@@ -104,6 +104,4 @@ For any inquiries or feedback, please reach out:
 ---
 
 **Thank you for choosing RentoRama!** 🚗✨
-```
-
 ---
